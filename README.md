@@ -1,1 +1,1 @@
-# Prog2_lab6
+#      Prog2_lab6
